@@ -32,6 +32,9 @@
     margin-top: 20px;
     width: 80%;
 }
+#green-mo{
+    display: none;
+}
 .navbar{
     background-color: #D9D9D9;
 }
@@ -320,5 +323,6 @@ button{
         bottom: 24%;
         width: 75%;
         background-color: #399349;
+        display: block;
     }
 }
